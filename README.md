@@ -1,5 +1,5 @@
 Tip collected at a restaurant
- Bookmark this page
+<br>
 Use the Tips Dataset
 
 The data set is from a restaurant from a city that operates only on 4 days of the week. Thursday, Friday, Saturday, Sunday. It records each transaction that was done when the restaurant was open.
