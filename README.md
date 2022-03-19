@@ -6,14 +6,14 @@ The data set is from a restaurant from a city that operates only on 4 days of th
 
 The key parameters are
 
-Total Bill - Amount of total bill in USD
-Tip - Amount of tip given by the customer in USD
-Sex - Sax of the guest who pays for the bill (Male or Female)
-Smoker - Smoker in the party (Yes or No)
-Day - Day of the week (Thu, Fri, Sat, Sun)
-Time - Dinner or Lunch
-Size - Number of the guests in the party
-As a data scientist, you have been assigned the task to investigate the pattern of the tip received by the restaurant staff because the tip is an important parameter of their salary
+Total Bill - Amount of total bill in USD<br>
+Tip - Amount of tip given by the customer in USD<br>
+Sex - Sax of the guest who pays for the bill (Male or Female)<br>
+Smoker - Smoker in the party (Yes or No)<br>
+Day - Day of the week (Thu, Fri, Sat, Sun)<br>
+Time - Dinner or Lunch<br>
+Size - Number of the guests in the party<br>
+As a data scientist, you have been assigned the task to investigate the pattern of the tip received by the restaurant staff because the tip is an important parameter of their salary<br>
 
 !)Find out Five-Number summary for "Total Bill" and "Tip"<br>
 2)Plot the Box plot diagram for "Total Bill" and "Tip"<br>
